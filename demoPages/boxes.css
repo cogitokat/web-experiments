@@ -1,0 +1,30 @@
+.box {
+    height:150px;
+    width:150px;
+    display: inline-block;
+    position:relative;
+}
+
+.red {
+    background-color:#FF0000;
+}
+
+.blue {
+    background-color:#0000FF;
+}
+
+.yellow {
+    background-color:#E2BE22;
+}
+
+.green {
+    background-color:#008800;
+}
+.darkgreen {
+    background-color:#006600;
+}
+.inner{
+    margin:30px 10px 10px 30px;
+    font: 12px "Verdana";
+    color:white;
+}

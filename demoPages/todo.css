@@ -1,0 +1,36 @@
+    
+.normal {
+    font-weight:lighter;
+}
+
+.urgent {
+    font-weight:bold;
+}
+
+.urgent1marker {
+    background-color:yellow;
+}
+
+.urgent2marker {
+    background-color:orange;
+}
+
+.urgent3marker {
+    background-color:red;
+}
+
+.completed {
+    font-weight:lighter;
+    color:green;
+}
+
+.highlighted {
+    -webkit-box-shadow: 0 0 8px #c6f804;
+    -moz-box-shadow: 0 0 8px #c6f804;
+    box-shadow: 0 0 8px #c6f804;
+    cursor:pointer;
+}
+
+.inputfocus {
+    background-color : #eeeeee;
+}
