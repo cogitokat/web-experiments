@@ -23,29 +23,47 @@
     margin : 0 auto;
     }
     
+.zendivSpacer{
+    height: 20px;
+    width : 20px;
+    background-color : white:
+    }
+    
 .zendivOuter {
     position: relative;
     width : 700px;
-    height : 440px;
+    height : 430px;
     top : 20px;
     }
 
 .buttondivOuter {
     position: relative;
     width: 700px; 
-    height : 30px;
+    height : 34px;
     top : 30px;
     }
     
 .buttondivInner {
-    height: 30px; 
-    width : 300px;
+    height: 34px; 
+    width : 700px;
     margin: 0 auto;
     text-align: center;
     }    
 
 .button {
     vertical-align:middle;
-    height : 20px;
-    width : 40px;
+    height : 30px;
+    width : 54px;
+    background-color : DimGray;
     }
+
+#pauseplay {
+    height : 44px;
+    width : 68px;
+    }
+    
+#back1, #forward1 {
+    height : 36px;
+    width : 60px;
+    }
+    
